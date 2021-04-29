@@ -14,7 +14,7 @@ We use the following methods for the analysis:
 
 ## Resources
 
-- Data Source :
+- Data Source : [crypto_data](/crypto_data.csv)
 - Software :Python , Anaconda Navigator , Conda , Jupyter Notebook.
 
 

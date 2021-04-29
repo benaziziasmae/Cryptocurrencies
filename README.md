@@ -22,16 +22,18 @@ We use the following methods for the analysis:
 
 **- Deliverable 1**
 
-By Using the knowledge of Pandas, we preprocessed the dataset in order to perform PCA.
+By using the knowledge of Pandas, we preprocessed the dataset in order to perform PCA.
+the DataFrame below perform the data cleaned and where we kept the : Algorithm, ProofType, TotalCoinsMined and the TotalCoinSupply
 
 ![crypto](/Resources/crypto_df1.PNG)
 
 **- Deliverable 2**
 
-Using your knowledge of how to apply the Principal Component Analysis (PCA) algorithm, you’ll reduce the dimensions of the X DataFrame to three principal components and place these dimensions in a new DataFrame.
+By using the knowledge of how to apply the Principal Component Analysis (PCA) algorithm, we reduced the dimensions of the X DataFrame to three principal components and place these dimensions in a new DataFrame.
 
-- The PCA algorithm reduces the dimensions of the X DataFrame down to three principal components 
-- 
+- The PCA algorithm reduces the dimensions of the X DataFrame down to three principal components as shown in the image below
+
+![PCA](/Resources/PCA2.PNG)
 
 **- Deliverable 3**
 

@@ -41,11 +41,17 @@ By using the knowledge of the K-means algorithm, we created an elbow curve using
 
 ![Elbow_curve](/Resources/elbow_curve3.PNG)
 
-**- Deliverable 4**
+***Clustering Cryptocurrencies using K-Means - Elbow Curve***
 
+We don't know what would be the output of the analysis so we are using unsupervised machine learning to identify clusters of the cryptocurrencies.
+We produced the elbow curve below using the K-Means method iterating on k values from 1 to 10.
+
+**- Deliverable 4**
 
 By using the knowledge of creating scatter plots with Plotly Express and hvplot, we0 visualized the distinct groups that correspond to the three principal components we created in Deliverable 2, then we created a table with all the currently tradable cryptocurrencies using the hvplot.table() function.
 
 ![hvplot_table](/Resources/pca_3D5.PNG)
 
 ![table](/Resources/hvplot_table6.PNG)
+
+

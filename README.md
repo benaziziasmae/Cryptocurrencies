@@ -44,6 +44,8 @@ By using the knowledge of the K-means algorithm, we created an elbow curve using
 **- Deliverable 4**
 
 
-Using your knowledge of creating scatter plots with Plotly Express and hvplot, you’ll visualize the distinct groups that correspond to the three principal components you created in Deliverable 2, then you’ll create a table with all the currently tradable cryptocurrencies using the hvplot.table() function.
+By using the knowledge of creating scatter plots with Plotly Express and hvplot, we0 visualized the distinct groups that correspond to the three principal components we created in Deliverable 2, then we created a table with all the currently tradable cryptocurrencies using the hvplot.table() function.
 
+![hvplot_table](/Resources/pca_3D5.PNG)
 
+![table](/Resources/hvplot_table6.PNG)

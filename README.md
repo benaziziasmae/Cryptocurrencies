@@ -30,6 +30,7 @@ Using your knowledge of Pandas, you’ll preprocess the dataset in order to perf
 Using your knowledge of how to apply the Principal Component Analysis (PCA) algorithm, you’ll reduce the dimensions of the X DataFrame to three principal components and place these dimensions in a new DataFrame.
 
 - The PCA algorithm reduces the dimensions of the X DataFrame down to three principal components 
+- 
 
 **- Deliverable 3**
 

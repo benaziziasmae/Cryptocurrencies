@@ -58,6 +58,13 @@ By using the knowledge of creating scatter plots with Plotly Express and hvplot,
 
 -- 2D-Scatter plot with clusters : This 2-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to two principal components.
 
+![scatter](/Resources/scatter8.PNG)
+
+Both these scatter plots show the distribution and the four clusters of cryptocurrencies.
+We can identify the outliers like the unique cryptocurrency in the class #2.
+
+-- Tradable Cryptocurrencies Table
+
 ![table](/Resources/hvplot_table6.PNG)
 
 

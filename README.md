@@ -6,10 +6,10 @@ The purpose of this project is to use unsupervised machine learning to analyze a
 This classification report could be used by an investment bank to propose a new cryptocurrency investment portfolio to its clients.
 We use the following methods for the analysis:
 
-- preprocessing the database,
-- reducing the data dimension using Principal Component Analysis,
-- clustering cryptocurrencies using K-Means,
-- visualizing classification results with 2D and 3D scatter plots.
+- Preprocessing the database,
+- Reducing the data dimension using Principal Component Analysis,
+- Clustering cryptocurrencies using K-Means,
+- Visualizing classification results with 2D and 3D scatter plots.
 
 
 ## Resources
@@ -22,8 +22,9 @@ We use the following methods for the analysis:
 
 **- Deliverable 1**
 
-Using your knowledge of Pandas, you’ll preprocess the dataset in order to perform PCA.
+By Using the knowledge of Pandas, we preprocessed the dataset in order to perform PCA.
 
+![crypto](/Resources/crypto_df1.PNG)
 
 **- Deliverable 2**
 

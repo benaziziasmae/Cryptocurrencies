@@ -50,7 +50,13 @@ We produced the elbow curve below using the K-Means method iterating on k values
 
 By using the knowledge of creating scatter plots with Plotly Express and hvplot, we0 visualized the distinct groups that correspond to the three principal components we created in Deliverable 2, then we created a table with all the currently tradable cryptocurrencies using the hvplot.table() function.
 
+***Visualizing Cryptocurrencies Results***
+
+-- 3D-Scatter plot with clusters: This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to three principal components.
+
 ![hvplot_table](/Resources/pca_3D5.PNG)
+
+-- 2D-Scatter plot with clusters : This 2-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to two principal components.
 
 ![table](/Resources/hvplot_table6.PNG)
 
